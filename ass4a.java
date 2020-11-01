@@ -1,4 +1,4 @@
-abstract class Ass4
+abstract class Ass4 //abstract class
 {
 	public static void show()
 	{
